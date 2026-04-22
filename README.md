@@ -15,7 +15,7 @@ Portfolio website showcasing Arabidopsis thaliana RNA-seq analysis, workflow, vi
 Open portfolio_arabidopsis.html in any modern web browser.
 
 ## Live Site
-Soon
+https://saad-mhmd.github.io/rnaseq-arabidopsis-portfolio/
 
 ## Author
 Sofia YUZKIV
